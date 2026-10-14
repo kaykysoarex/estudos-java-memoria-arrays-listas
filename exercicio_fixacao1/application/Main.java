@@ -1,7 +1,8 @@
-package exercicio_fixacao.application;
+package exercicio_fixacao1.application;
 
 import java.util.Locale;
-import exercicio_fixacao.application.entities.Product;
+
+import exercicio_fixacao1.application.entities.Product;
 
 public class Main {
     public static void main(String[] args) {

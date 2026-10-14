@@ -1,4 +1,4 @@
-package exercicio_fixacao.application.entities;
+package exercicio_fixacao1.application.entities;
 
 /**
  * Product
